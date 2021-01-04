@@ -1,0 +1,196 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+.nav-link {
+    font-size: 18px;
+    font-weight: bolder;
+    padding: 18px 32px !important
+}
+
+main {
+    text-align: center;
+}
+
+.logo {
+    height: 70px;
+}
+
+.mt-8 {
+    margin-top: 8%;
+}
+
+.mb-12 {
+    margin-bottom: 15%;
+}
+
+.blue {
+    color: rgb(66, 133, 244);
+}
+
+.green {
+    color: rgb(52, 168, 83);
+}
+
+.header-text {
+    font-size: 3rem !important;
+    font-weight: 600;
+}
+
+.first-coding {
+    color: rgb(234, 67, 53)
+}
+
+/* .three{
+    margin-bottom: 10px;
+} */
+/* .one{
+    border-top: 2px solid rgb(126, 217, 87) !important;
+} */
+
+.one img {
+    width: 200px;
+    
+}
+
+/* .one img p{
+    margin-top: 5px;
+} */
+
+.two img {
+    width: 250px;
+}
+
+.three img {
+    width: 100%;
+}
+
+.four img {
+    width: 100%;
+}
+
+.five img {
+    width: 100%;
+}
+
+.six img {
+    width: 100%;
+}
+
+.seven img {
+    width: 100%;
+}
+
+.eight img {
+    width: 100%;
+}
+
+.nine img {
+    width: 100%;
+}
+
+.card{
+    /* margin-top: -15%; */
+    height: 210px;
+    padding: 10px;
+   
+}
+.kids{
+    border-top: 2px solid rgb(126, 217, 87) !important;
+}
+.studio{
+    border-top: 2px solid rgb(251, 189, 1) !important;
+}
+.boot{
+    border-top: 2px solid black !important;
+}
+.compiler{
+    border-top: 2px solid rgb(0, 128, 55) !important;
+}
+.live{
+    border-top: 2px solid rgb(255, 23, 23) !important;
+}
+.email{
+    border-top: 2px solid rgb(84, 84, 84) !important;
+}
+.edu{
+    border-top: 2px solid rgb(84, 84, 84) !important;
+}
+.codein{
+    border-top: 2px solid rgb(49, 171, 80) !important;
+}
+.community{
+    border-top: 2px solid rgb(255, 23, 23) !important;
+}
+.col-sm-4{
+    margin-top: 50px;
+    /* padding: 25px; */
+    
+}
+/* .row{
+    margin-top: -10%;
+} */
+.footer{
+    border: 1px solid rgb(211, 211, 211);
+    background-color: rgb(247, 247, 247);
+    margin-top: 8%;
+    /* position: relative; */
+    padding-top: -5px !important;
+    padding-bottom: 2%;
+    /* padding: 2% !important; */
+}
+.left{
+    margin-top: 5%;
+    padding-top: 1px !important;
+}
+.list{
+    list-style-type: none;
+    display: inline-block;
+    /* width: 5%; */
+    /* margin-bottom: 4%; */
+    position: relative;
+    padding-top: 1px !important;
+}
+.list li{
+    display: inline-block;
+    padding: 8px;
+    font-size: 20px;
+    margin-bottom: 5%;
+    margin-top: -5%;
+}
+.list li a{
+    color: rgb(49, 49, 49);
+    text-decoration: none;
+    margin-bottom: -5%;
+}
+.list li a:hover{
+   color: rgb(0, 0, 0);;
+}
+.fi{
+    width: 15%;
+    margin-left: 3%;
+    margin-top: -2%;
+}
+/* .right{
+    padding-top: 2px;
+} */
+.right p{
+    margin-top: -5%;
+    position: absolute;
+
+}
+.ft{
+    margin-top: -2%;
+}
+.icon{
+    /* float: right; */
+    margin-left: 75%;
+    margin-top: -5.5%;
+    
+}
+.icon a{
+    padding: 6%;
+}
+.icon a i{
+    color: black;
+}
